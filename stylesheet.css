@@ -1,0 +1,117 @@
+body {
+    font-family:"Arial";
+    background-color:black;
+    color:green;
+}
+.header a {
+    text-decoration:none;
+    color:green;
+}
+.Pesutoniki {
+    color:white;
+}
+.header{
+height:90px;
+margin-bottom:60px;
+}
+.header h1 {
+    font-size:36px;
+    float:left;
+    padding-right:40px;
+    padding-left:40px;
+}
+.header li{
+    list-style:none;
+    font-size:24px;
+    float:left;
+    padding:33px 20px 33px 20px;
+}
+
+.about{
+    border:solid 1px white;
+    padding-left:20px;
+    margin-bottom:60px;
+}
+.members {
+    border:solid 1px white;
+    margin-top:12px;
+}
+.members h2{
+    padding-left:20px;
+    font-size:28px;   
+}
+.kunaun{
+    border:solid 1px white;
+    margin-left:12px;
+    margin-right:12px;
+    margin-bottom:12px;
+}
+.kunaun h2{
+    padding-left:20px;
+}
+.master{
+    margin-bottom:90px;
+    border:solid 1px white;
+    margin-left:12px;
+    margin-right:12px;
+    margin-top:20px;
+}
+
+.introduction{
+    display:inline-block;
+    padding:20px 120px 20px 120px;   
+}
+
+.introduction2{
+    display:inline-block;
+    padding:20px 60px 20px 60px;
+}
+.introduction3{
+    display:inline-block;
+    padding:20px 60px 20px 60px;
+}
+.history{
+    padding-left:20px;
+    padding-right:20px;
+    border:solid 1px white;
+    margin-top:40px;
+}
+.history h2{
+    font-size:28px;
+    padding-left:28px;
+}
+.history p{
+    font-size:20px;
+    padding-left:28px;
+}
+.history span{
+    padding-left:18px;
+}
+.contact{
+    border:solid 1px white;
+    margin-top:40px;
+    padding-left:20px;
+}
+.contact h2{
+    font-size:28px;
+    padding-left:20px;
+}
+.contact p {
+    font-size:18px;
+    padding-top:10px;
+    padding-left:40px;
+}
+.footer{
+ height:50px;
+margin-top:30px;
+margin-bottom:30px;
+ border-top:solid 3px white;
+}
+.footer p{
+    font-family:cursive;
+    font-size:42px;
+    padding-bottom:50px;
+    padding-left:30px;
+    float:right;
+    padding-right:50px;
+}
